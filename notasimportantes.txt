@@ -1,0 +1,3 @@
+a cada proyectos de flutter
+
+flutter pub get  --- para compilar nada mas!!! 
